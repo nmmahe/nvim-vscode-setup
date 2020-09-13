@@ -1,0 +1,6 @@
+{
+  "vscode-neovim.neovimInitVimPaths.darwin": "/Users/nick/.config/nvim/init.vim",
+  "vscode-neovim.neovimExecutablePaths.darwin": "/usr/local/bin/nvim",
+  "workbench.editor.showTabs": true,
+  "workbench.list.automaticKeyboardNavigation": false
+}

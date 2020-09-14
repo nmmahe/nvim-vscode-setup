@@ -108,3 +108,9 @@ nnoremap <leader>tn :call VSCodeNotify('workbench.action.terminal.newInActiveWor
 
 "kill terminal
 nnoremap <leader>tk :call VSCodeNotify('workbench.action.terminal.kill')<CR>
+
+" commenting mappings with ctrl key
+xmap <C-/>  <Plug>VSCodeCommentary
+nmap <C-/> <Plug>VSCodeCommentary
+omap <C-/> <Plug>VSCodeCommentary
+nmap <C-/> <Plug>VSCodeCommentaryLine
